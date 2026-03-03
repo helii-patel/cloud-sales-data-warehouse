@@ -1,0 +1,9 @@
+Dataset: Amazon Sales Dataset
+Source: Kaggle
+
+Description:
+The dataset contains 50,000+ sales transactions including order details, product information,
+customer region, payment methods, discounts, ratings, and revenue.
+
+Purpose:
+Used to simulate a cloud-based data engineering and analytics pipeline.
