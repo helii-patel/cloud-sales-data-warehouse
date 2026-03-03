@@ -24,6 +24,10 @@ Power BI (Executive Analytics Dashboard)
 
 ---
 
+## 🏗 Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
+
 ## ⚙️ Technology Stack
 
 ### Cloud
